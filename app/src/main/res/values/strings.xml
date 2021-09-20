@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Github User</string>
+    <string name="githubicon">Github Icon</string>
+    <string name="githubuser">Github User App</string>
+    <string name="github_users">Github Users</string>
+    <string name="github_username">gitUsername</string>
+
+    <string name="cari">Type here to search user</string>
+    <string name="title_main">Search User</string>
+    <string name="title_user">Data User Github</string>
+    <string name="bio">Web Developer | Amateur Programing | Tech Enthusiast</string>
+    <string name="email">example@mail.com</string>
+    <string name="url">https://github.com/Users</string>
+    <string name="follows">4 Followers. 20 Following</string>
+    <string name="repo">4 repositori</string>
+    <string name="title_detail">Detail User</string>
+
+    <string name="tab_1">Repository</string>
+    <string name="tab_2">Followers</string>
+    <string name="tab_3">Following</string>
+    <string name="copykanan">Made by Novi Herlambang</string>
+    <string name="repo_name">Aplikasi-github-user</string>
+    <string name="desc">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s,</string>
+    <string name="language">Kotlin</string>
+    <string name="stargazers_count">99</string>
+    <string name="updated_at">Update</string>
+    <string name="bhs_change">Change language</string>
+
+    <string name="content_title">You favor this user</string>
+    <string name="content_text">Swipe To finish</string>
+    <string name="title_setting">Settings</string>
+    <string name="title_favorite">Favorite User</string>
+    <string name="select_language">Select Language</string>
+
+</resources>

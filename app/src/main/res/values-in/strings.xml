@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Github User</string>
+    <string name="githubicon">Github Icon</string>
+    <string name="githubuser">Github User App</string>
+    <string name="github_users">Github Users</string>
+    <string name="github_username">gitUsername</string>
+
+    <string name="cari">Ketik di sini untuk mencari pengguna</string>
+    <string name="title_main">Cari User</string>
+    <string name="title_user">Data User Github</string>
+    <string name="bio">Web Developer | Amateur Programing | Tech Enthusiast</string>
+    <string name="email">example@mail.com</string>
+    <string name="url">https://github.com/Users</string>
+    <string name="follows">4 Followers. 20 Following</string>
+    <string name="repo">4 repositori</string>
+    <string name="title_detail">Data Lengkap User</string>
+
+    <string name="tab_1">Repository</string>
+    <string name="tab_2">Pengikut</string>
+    <string name="tab_3">Mengikuti</string>
+    <string name="copykanan">Dibuat oleh Novi Herlambang</string>
+    <string name="repo_name">Aplikasi-github-user</string>
+    <string name="desc">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s,</string>
+    <string name="language">Kotlin</string>
+    <string name="stargazers_count">99</string>
+    <string name="updated_at">Update</string>
+    <string name="bhs_change">Ubah Bahasa</string>
+
+    <string name="content_title">Anda mem favorit kan pengguna ini</string>
+    <string name="content_text">Geser Untuk selsai</string>
+    <string name="title_setting">Pengaturan</string>
+    <string name="title_favorite">Favorite User</string>
+    <string name="select_language">Pilih Bahasa</string>
+</resources>

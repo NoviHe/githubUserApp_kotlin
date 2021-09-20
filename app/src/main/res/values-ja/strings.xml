@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Github User</string>
+    <string name="githubicon">Github Icon</string>
+    <string name="githubuser">Github User App</string>
+    <string name="github_users">Github Users</string>
+    <string name="github_username">gitUsername</string>
+
+    <string name="cari">ここに入力して検索します</string>
+    <string name="title_main">ユーザーの検索</string>
+    <string name="title_user">Data User Github</string>
+    <string name="bio">Web開発者| アマチュアプログラミング| 技術愛好家</string>
+    <string name="email">example@mail.com</string>
+    <string name="url">https://github.com/Users</string>
+    <string name="follows">4 Followers. 20 Following</string>
+    <string name="repo">4 repositori</string>
+    <string name="title_detail">ユーザーの詳細</string>
+
+    <string name="tab_1">リポジトリ</string>
+    <string name="tab_2">フォロワー</string>
+    <string name="tab_3">以下</string>
+    <string name="copykanan">作られた Novi Herlambang</string>
+    <string name="repo_name">Aplikasi-github-user</string>
+    <string name="desc">Lorem Ipsumは、印刷および植字業界の単なるダミーテキストです。 Lorem Ipsumは、1500年代以来、業界の標準的なダミーテキストです。</string>
+    <string name="language">Kotlin</string>
+    <string name="stargazers_count">99</string>
+    <string name="updated_at">Update</string>
+    <string name="bhs_change">言語を変えてください</string>
+
+    <string name="content_title">あなたはこのユーザーを支持します</string>
+    <string name="content_text">スワイプして終了</string>
+    <string name="title_setting">設定</string>
+    <string name="title_favorite">本命r</string>
+    <string name="select_language">言語を選択する</string>
+</resources>
